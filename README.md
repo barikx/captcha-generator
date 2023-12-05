@@ -1,4 +1,4 @@
-Captcha Generator using HTML CSS and JavaScript
+#Captcha Generator using HTML CSS and JavaScript
 
 Live example of this project : https://codepen.io/Suman-Barik/full/jOQyNJY
 
